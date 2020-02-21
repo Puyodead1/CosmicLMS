@@ -2,6 +2,9 @@
 
 More info coming soon, mc 1.8.8
 
+CosmicPvP Information: https://wiki.cosmicpvp.com/wiki/LMS<br>
+ACF Post: https://www.spigotmc.org/threads/acf-beta-annotation-command-framework.234266/#post-2366730
+
 ## 3RD Party APIS
   - WorldEdit 6.1.3
   - ACF (Annotations Command Framework)
