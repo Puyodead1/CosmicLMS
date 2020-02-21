@@ -1,0 +1,6 @@
+name: CosmicLMS
+version: ${project.version}
+main: me.puyodead1.cosmiclms.CosmicLMS
+depend: [WorldEdit]
+authors: [Puyodead1]
+description: Last Man Standing based on CosmicPvP
